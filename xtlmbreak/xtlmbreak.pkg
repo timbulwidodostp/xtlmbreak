@@ -1,3 +1,4 @@
-D 'rcm': Regression control method (RCM) Use rcm With STATA 19
-F rcm.ado
-F rcm.sthlp
+D 'xtlmbreak': Panel Lagrange Multiplier (LM) cointegration test with multiple structural breaks Use xtlmbreak With STATA 19
+F _xtlmbreak_engine.ado
+F xtlmbreak.ado
+F xtlmbreak.sthlp
