@@ -1,6 +1,8 @@
 # xtlmbreak
 Panel Lagrange Multiplier (LM) cointegration test with multiple structural breaks Use xtlmbreak With STATA 19
 
+https://www.youtube.com/watch?v=lKBwjbod1gc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
